@@ -43,7 +43,7 @@ using namespace std ;
                     }else{
                         if(ans.back() != A[ptr1]){
                             ans.push_back(A[ptr1]);
-                        }
+                        } 
                     }
                     ptr1++ ;
                 }else{

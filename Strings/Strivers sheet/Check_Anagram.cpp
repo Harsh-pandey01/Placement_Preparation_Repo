@@ -19,7 +19,7 @@ bool checkAnagram(string s ,string t){
     return true ;
 }
 
-int main(){
+int main(){ 
 
 string str1,str2 ;
 cout << "Provide the strings " << endl ;
